@@ -153,15 +153,15 @@ const Home = () => {
           <h2 className="text-3xl font-bold text-center mb-12">Our Success in Numbers</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             <div className="text-center">
-              <p className="text-4xl font-bold text-pink-600">50,000+</p>
+              <p className="text-4xl font-bold text-pink-600">500+</p>
               <p className="text-xl text-gray-600">Verified Profiles</p>
             </div>
             <div className="text-center">
-              <p className="text-4xl font-bold text-purple-600">20,000+</p>
+              <p className="text-4xl font-bold text-purple-600">200+</p>
               <p className="text-xl text-gray-600">Success Stories</p>
             </div>
             <div className="text-center">
-              <p className="text-4xl font-bold text-blue-600">100,000+</p>
+              <p className="text-4xl font-bold text-blue-600">200+</p>
               <p className="text-xl text-gray-600">Happy Users</p>
             </div>
           </div>
